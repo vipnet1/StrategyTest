@@ -14,4 +14,4 @@ BACKSPACE to return field of view to initial state, ESCAPE to exit the app.
 There is also a minimap at the bottom right side. You can see the selected animals there.
 
 Thats only a one game/graphics project from those that I have created. I put it here to show that i have got some experience with C/C++.
-For more mine games/graphic projects check https://www.youtube.com/watch?v=ApEWvQ-ROm4&t=4s
+For more mine games/graphic projects check https://www.youtube.com/watch?v=ApEWvQ-ROm4&t=4s and https://vipnet.itch.io/
