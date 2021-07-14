@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MainOpenGLRes">
+      <UniqueIdentifier>{34c5ac0a-de87-44bb-906b-f69f05654a26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{c75aa049-e043-4cf1-b4f2-65f090f97666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainOpenGLRes\VertexBuffer">
+      <UniqueIdentifier>{0d50f59f-70d6-4be6-bfe4-73f640126e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainOpenGLRes\Shader">
+      <UniqueIdentifier>{2ab40cf3-2774-4da0-84ed-2a8041f292cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainOpenGLRes\VertexArray">
+      <UniqueIdentifier>{59b6c49c-bb7b-4bcd-bc76-45ca4a702cb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainOpenGLRes\IndexBuffer">
+      <UniqueIdentifier>{912b8b1c-b7e6-475f-81d4-bd6ecdca1bf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainOpenGLRes\Texture">
+      <UniqueIdentifier>{beb963a5-5f10-4496-ade1-2b32066d71bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Terrain">
+      <UniqueIdentifier>{e7238d03-0928-4776-b1c9-2ba8dc68f281}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ModelSrc">
+      <UniqueIdentifier>{ec9976cc-eaf5-4261-a769-52f9dec9f016}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CameraObjects">
+      <UniqueIdentifier>{107f7da8-5ef3-4b05-80dd-0781fefb0b80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CameraObjects\Camera">
+      <UniqueIdentifier>{44497dc6-dd5e-48af-bfda-97d2b839cbb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CameraObjects\TerrainCamera">
+      <UniqueIdentifier>{e2adedca-f21b-483b-a2e4-6e2b61d4de55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Skybox">
+      <UniqueIdentifier>{9e6c3f15-5484-4d51-b874-c526fcc4e1b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TextRenderer">
+      <UniqueIdentifier>{f89e1ff8-8e22-4c73-b71b-1602a8d8f8a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainOpenGLRes\FrameBuffer">
+      <UniqueIdentifier>{d6ccef84-7585-4cd6-b44d-774b5e5b1cba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Highlighting">
+      <UniqueIdentifier>{63688fb2-e55a-4b03-a0a5-65114a473f03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animals">
+      <UniqueIdentifier>{6924c218-9651-405f-a8fe-2c05388b0b36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animals\Wolf">
+      <UniqueIdentifier>{2c7074b0-dd2b-435a-86bb-fcf6ad0f8e32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animals\Panda">
+      <UniqueIdentifier>{c14ae1d3-3446-4f7c-9d3c-851588c15cba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animals\Animal">
+      <UniqueIdentifier>{34e4eaca-73df-4fbd-903b-fbe40dd30e6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScoreHolder">
+      <UniqueIdentifier>{c45abf95-99f2-4027-8ffe-247212e5c7ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainMap">
+      <UniqueIdentifier>{92a15e22-b1bd-4b38-979e-479e969bd1a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animals\Turtle">
+      <UniqueIdentifier>{43fd3b9e-c9ba-4343-b6b5-2a4f65070e49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="InfluencePointStuff">
+      <UniqueIdentifier>{d3292dca-d00a-465e-abaa-d8735e048121}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="InfluencePointStuff\InfluencePoint">
+      <UniqueIdentifier>{5d3571f1-0deb-4d73-91d9-ff80a1a91a36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="InfluencePointStuff\InfluencePointGenerator">
+      <UniqueIdentifier>{b2dbdd49-a12c-4add-b7a2-8e4a66411054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SelectableStuff">
+      <UniqueIdentifier>{cd6fb354-f1fe-48a3-964e-2e4a7abef3fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SelectableStuff\AnimalSelectable">
+      <UniqueIdentifier>{c9c9da3b-b3ba-4ff1-969a-0912ec489b10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SelectableStuff\BuldingSelectable">
+      <UniqueIdentifier>{ca026046-2ba8-4291-914f-507060adba6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SelectableStuff\Selectable">
+      <UniqueIdentifier>{d87c56ec-0a74-4aeb-b318-507b80fc300f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SelectableStuff\SelectableManager">
+      <UniqueIdentifier>{ed696bb3-1a46-4a42-a6dd-5fc22f5b1926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingStuff">
+      <UniqueIdentifier>{412ceed8-b7a6-490d-b900-77347e114848}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingStuff\Target">
+      <UniqueIdentifier>{5013701c-872a-4a07-803b-581d0ba9669c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingStuff\Building">
+      <UniqueIdentifier>{441c75d0-b32f-40df-8293-067c73d4c5ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingStuff\Pyramid">
+      <UniqueIdentifier>{4aea1a86-ab1e-41cd-9dd7-e6a576755f3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingStuff\BuildingHolder">
+      <UniqueIdentifier>{094df9ce-64dd-4f48-9df7-efa6ce1866c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animals\Cave">
+      <UniqueIdentifier>{179092fd-ec5b-46f3-a6f6-93cbddb91baa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingStuff\Statue">
+      <UniqueIdentifier>{ead06fe3-7b69-498d-ba14-5d47d78d94e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ColisionBox">
+      <UniqueIdentifier>{6999f2a4-6238-4722-a657-83226c5493bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderer">
+      <UniqueIdentifier>{9d26f4d5-54ff-4667-b79d-d3ac0af965b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>MainOpenGLRes\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="VertexBuffer.cpp">
+      <Filter>MainOpenGLRes\VertexBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="VertexArray.cpp">
+      <Filter>MainOpenGLRes\VertexArray</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexBuffer.cpp">
+      <Filter>MainOpenGLRes\IndexBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>MainOpenGLRes\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>CameraObjects\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainCamera.cpp">
+      <Filter>CameraObjects\TerrainCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="Skybox.cpp">
+      <Filter>Skybox</Filter>
+    </ClCompile>
+    <ClCompile Include="Wolf.cpp">
+      <Filter>Animals\Wolf</Filter>
+    </ClCompile>
+    <ClCompile Include="Cave.cpp">
+      <Filter>Animals\Cave</Filter>
+    </ClCompile>
+    <ClCompile Include="TextRenderer.cpp">
+      <Filter>TextRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameBuffer.cpp">
+      <Filter>MainOpenGLRes\FrameBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="Highlight.cpp">
+      <Filter>Highlighting</Filter>
+    </ClCompile>
+    <ClCompile Include="Panda.cpp">
+      <Filter>Animals\Panda</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Animals\Animal</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreHolder.cpp">
+      <Filter>ScoreHolder</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>MainMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Turtle.cpp">
+      <Filter>Animals\Turtle</Filter>
+    </ClCompile>
+    <ClCompile Include="InfluencePoint.cpp">
+      <Filter>InfluencePointStuff\InfluencePoint</Filter>
+    </ClCompile>
+    <ClCompile Include="InfluencePointGenerator.cpp">
+      <Filter>InfluencePointStuff\InfluencePointGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="Selectable.cpp">
+      <Filter>SelectableStuff\Selectable</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildingSelectable.cpp">
+      <Filter>SelectableStuff\BuldingSelectable</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimalSelectable.cpp">
+      <Filter>SelectableStuff\AnimalSelectable</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectableManager.cpp">
+      <Filter>SelectableStuff\SelectableManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Target.cpp">
+      <Filter>BuildingStuff\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>BuildingStuff\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildingHolder.cpp">
+      <Filter>BuildingStuff\BuildingHolder</Filter>
+    </ClCompile>
+    <ClCompile Include="Pyramid.cpp">
+      <Filter>BuildingStuff\Pyramid</Filter>
+    </ClCompile>
+    <ClCompile Include="Statue.cpp">
+      <Filter>BuildingStuff\Statue</Filter>
+    </ClCompile>
+    <ClCompile Include="ColisionBox.cpp">
+      <Filter>ColisionBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Renderer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>MainOpenGLRes\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexBuffer.h">
+      <Filter>MainOpenGLRes\VertexBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexArray.h">
+      <Filter>MainOpenGLRes\VertexArray</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexBufferLayout.h">
+      <Filter>MainOpenGLRes\VertexArray</Filter>
+    </ClInclude>
+    <ClInclude Include="IndexBuffer.h">
+      <Filter>MainOpenGLRes\IndexBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>MainOpenGLRes\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>MainOpenGLRes\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>CameraObjects\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>ModelSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>ModelSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainCamera.h">
+      <Filter>CameraObjects\TerrainCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Skybox</Filter>
+    </ClInclude>
+    <ClInclude Include="Wolf.h">
+      <Filter>Animals\Wolf</Filter>
+    </ClInclude>
+    <ClInclude Include="Cave.h">
+      <Filter>Animals\Cave</Filter>
+    </ClInclude>
+    <ClInclude Include="TextRenderer.h">
+      <Filter>TextRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameBuffer.h">
+      <Filter>MainOpenGLRes\FrameBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="Highlight.h">
+      <Filter>Highlighting</Filter>
+    </ClInclude>
+    <ClInclude Include="Panda.h">
+      <Filter>Animals\Panda</Filter>
+    </ClInclude>
+    <ClInclude Include="Animal.h">
+      <Filter>Animals\Animal</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreHolder.h">
+      <Filter>ScoreHolder</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>MainMap</Filter>
+    </ClInclude>
+    <ClInclude Include="Turtle.h">
+      <Filter>Animals\Turtle</Filter>
+    </ClInclude>
+    <ClInclude Include="InfluencePoint.h">
+      <Filter>InfluencePointStuff\InfluencePoint</Filter>
+    </ClInclude>
+    <ClInclude Include="InfluencePointGenerator.h">
+      <Filter>InfluencePointStuff\InfluencePointGenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="Selectable.h">
+      <Filter>SelectableStuff\Selectable</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildingSelectable.h">
+      <Filter>SelectableStuff\BuldingSelectable</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimalSelectable.h">
+      <Filter>SelectableStuff\AnimalSelectable</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectableManager.h">
+      <Filter>SelectableStuff\SelectableManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Target.h">
+      <Filter>BuildingStuff\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>BuildingStuff\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildingHolder.h">
+      <Filter>BuildingStuff\BuildingHolder</Filter>
+    </ClInclude>
+    <ClInclude Include="Pyramid.h">
+      <Filter>BuildingStuff\Pyramid</Filter>
+    </ClInclude>
+    <ClInclude Include="Statue.h">
+      <Filter>BuildingStuff\Statue</Filter>
+    </ClInclude>
+    <ClInclude Include="ColisionBox.h">
+      <Filter>ColisionBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
