@@ -1,7 +1,7 @@
 # StrategyTest
 I tried to create a strategy game-like system of moving, building and controlling the animals.
 
-Made using C++ and OpenGL Version 3.3(thats also the version required to run the app).
+Made using C++ and OpenGL Version 3.3(thats also the version required to run the app - 3.3 or more).
 
 The project is around 500 MB so i uploaded only essential files, the dependencies i used: GLFW, GLEW, GLM, ASSIMP, irrKlang, freetype32.
 
